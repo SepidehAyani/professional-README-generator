@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input using Inquirer npm.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SepidehAyani/professional-README-generator"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SepidehAyani/professional-README-generatorissues"
+  },
+  "homepage": "https://github.com/SepidehAyani/professional-README-generator"
+}
