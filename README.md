@@ -33,11 +33,11 @@ When user click on the links in the Table of Contents, then user is taken to the
 [GitHub Project Link](https://github.com/SepidehAyani/professional-README-generator)
     
 ## Demo
-![Project demo](assets/demo.mov)
+[![Project demo](assets/demo.png)](assets/demo.mov)
 
 ##### This is a screenshot of the application and how it works: <br>
     
-![Project Preview](assets/demo.png)
+![Project Preview](assets/overview.png)
     
 ## Getting Started
     
