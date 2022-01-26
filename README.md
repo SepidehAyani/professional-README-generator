@@ -1,10 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/SepidehAyani/professional-README-generator)  
-    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SepidehAyani/professional-README-generator)  
-    ![GitHub watchers](https://img.shields.io/github/watchers/SepidehAyani/professional-README-generator?label=Watch&style=social)  
-    ![GitHub top language](https://img.shields.io/github/languages/top/SepidehAyani/professional-README-generator)  
-    ![GitHub license](https://img.shields.io/badge/license-MIT-blueyellow) <br> 
-
 # professional-README-generator
+A command line application that dynamically generates a professional README.md file from a user's input using Inquirer npm. 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/SepidehAyani/professional-README-generator)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SepidehAyani/professional-README-generator)  ![GitHub watchers](https://img.shields.io/github/watchers/SepidehAyani/professional-README-generator?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/SepidehAyani/professional-README-generator)  ![GitHub license](https://img.shields.io/badge/license-MIT-blueyellow) <br> 
+
     
 ## Table of Contents 
 1. [About the Project](#About-The-Project)
@@ -20,18 +18,26 @@
 1. [License](#License)
     
 ## About The Project
-A command line application that dynamically generates a professional README.md file from a user's input using Inquirer npm. 
+Using a command-line application that accepts user input, when user prompted for information about their application repository
+then a high-quality, professional README.md is generated with the title of the project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
+When user enter the project title, then this is displayed as the title of the README.
+When user enter a description, installation instructions, usage information, contribution guidelines, and test instructions,
+then this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
+When user chooses a license for the application from a list of options, then a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under.
+When user enter GitHub username, then this is added to the section of the README entitled Questions, with a link to my GitHub profile.
+When user enter email address, then this is added to the section of the README entitled Questions, with instructions on how to reach the user with additional questions.
+When user click on the links in the Table of Contents, then user is taken to the corresponding section of the README.
     
 ## Project Links
 [Repo Link](https://github.com/SepidehAyani/professional-README-generator) <br>
-[GitHub Project Link](https://SepidehAyani.github.io/professional-README-generator/)
+[GitHub Project Link](https://github.com/SepidehAyani/professional-README-generator)
     
 ## Demo
-    
+![Project demo](assets/demo.mov)
+
 ##### This is a screenshot of the application and how it works: <br>
     
 ![Project Preview](assets/demo.png)
-![Project demo](assets/demo.mov)
     
 ## Getting Started
     
